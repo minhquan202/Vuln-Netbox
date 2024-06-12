@@ -21,7 +21,8 @@ Store XSS on the list api:
 - `/circuits/circuits/{id}/edit/`
 - `/circuits/circuits/add`
 
-of NetBox version 4.0.3 ([https://github.com/netbox-community/netbox](https://github.com/netbox-community/netbox)) allow remote attackers to hijack user's cookies via param Name except for api a, param is Circuit ID.
+of NetBox version 4.0.3 ([https://github.com/netbox-community/netbox](https://github.com/netbox-community/netbox)) allow remote attackers to hijack user's cookie via Parameter name except api (/Circuits/ Circuits/{id}/edit/)
+and (/Circuits/Circuits/add) then param is the circuit ID.
 
 **Proof of Concept:**
 

@@ -24,9 +24,9 @@ Proof of Concept:
 1, Add or edit the above api list with malicious script tags at Param malicious
 2, Go to api connections > cables to connect malicious device components together
 3, After connecting successfully, when accessing api Connection > Cables again, the XSS Vulnerability immediately appeared
-![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/36f5d549-87bd-4f8f-91ea-140078e5a3dd)
-![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/25ec0136-4e4e-4c2e-84b8-9367c27aac2c)
-![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/07c12038-c91c-45a5-b52a-6163d374d2ce)
 Impact:
 hijack user's cookies
 ```
+![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/36f5d549-87bd-4f8f-91ea-140078e5a3dd)
+![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/25ec0136-4e4e-4c2e-84b8-9367c27aac2c)
+![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/07c12038-c91c-45a5-b52a-6163d374d2ce)

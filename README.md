@@ -1,3 +1,4 @@
+```
 Description:
 Store XSS on the list api: 
 /dcim/power-ports/add/
@@ -28,3 +29,4 @@ Proof of Concept:
 ![image](https://github.com/minhquan202/Vuln-Netbox/assets/89106168/07c12038-c91c-45a5-b52a-6163d374d2ce)
 Impact:
 hijack user's cookies
+```
